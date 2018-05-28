@@ -21,7 +21,7 @@ druid_s3_secret_key = "QNYdovN5AaTl6wBVoin+RDT6CQlFIxXuE+jLTDph"
 
 wizz-in_pg_user = "wizzin"
 wizz-in_pg_password = "powerpuff"
-wizz-in_secret_key_base = "12345678"
+wizz-in_secret_key_base = "aaa12345678"
 
 grafana_pg_user = "grafana"
 grafana_pg_password = "powerpuff"
@@ -30,7 +30,7 @@ grafana_admin_password = "admin"
 
 wizz-vis_pg_user = "wizzvis"
 wizz-vis_pg_password = "powerpuff"
-wizz-vis_secret_key_base = "12345678"
+wizz-vis_secret_key_base = "aaa12345678"
 wizz-vis_mapbox_token = "pk.eyJ1IjoiampwdGFwaWEiLCJhIjoiY2pocHp4cWk2NGVwcjM2bTdxNzUxeG94NCJ9.qJwSgdhZjRh8fQ5E5AlZuQ"
 
 ## PRE-CONFIGURED VARS
