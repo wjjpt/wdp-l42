@@ -3,7 +3,7 @@
 ## USER VARS
 
 context = "kubel42"
-namespace = "jota"
+namespace = "wizzie"
 psql_server = "192.168.210.61"
 s3_endpoint = "192.168.210.63"
 cdomain = "k8s-lab.ivanlab.lan"
