@@ -2,10 +2,10 @@
 
 ## USER VARS
 
-# context = "CONFIGURE"
-# namespace = "CONFIGURE"
+context = "kubel42"
+namespace = "wizzie"
 
-# app_id = "CONFIGURE"
+app_id = "28df5db5-e30d-4602-9e6f-e75cefe3623c"
 
 ## PRE-CONFIGURED VARS
 
