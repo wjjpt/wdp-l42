@@ -235,7 +235,7 @@ grafana_cpu_request = "500m"
 grafana_cpu_limit = "500m"
 
 # WIZZ_VIS
-wizz-vis_image = "gcr.io/wizzie-registry/wizz-vis:0.3"
+wizz-vis_image = "gcr.io/wizzie-registry/wizz-vis:0.4"
 wizz-vis_gui_replicas = 1
 wizz-vis_jobs_replicas = 1
 wizz-vis_druid_timeout = "20000"
