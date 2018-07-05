@@ -21,7 +21,7 @@ normalizer_cpu_limit = "250m"
 
 # ENRICHER
 #enricher_image = "gcr.io/wizzie-registry/enricher:0.4.3"
-enricher_image = "gcr.io/wizzie-registry/enricher:latest"
+enricher_image = "gcr.io/wizzie-registry/enricher:0.3.0"
 enricher_replicas = 1
 enricher_multi_id = "true"
 enricher_global_topics = "[\"otx-reputation\"]"
